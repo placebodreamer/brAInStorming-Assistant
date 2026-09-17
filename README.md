@@ -21,3 +21,7 @@ This app can be downloaded from the [App Store](https://apps.apple.com/us/app/br
 ## Collabration and Use of Code
 
 The code is free to use and modify. However, I would highly appreciate it if I could be informed before you deploying it in your own app. More functions are incoming and welcome to star it.
+
+## Resources
+
+Looking for inspiration on how to prompt the AI collective? Check out [prompts.chat](https://github.com/f/prompts.chat), a community-curated collection of prompts that pairs well with brAInStorming Assistant's multi-AI sessions.
